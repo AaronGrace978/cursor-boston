@@ -16,7 +16,7 @@ const SOCIAL_LINKS = [
     Icon: XIcon,
   },
   {
-    href: "https://www.linkedin.com/company/cursor-boston/",
+    href: "https://www.linkedin.com/in/cursor-boston-marketing-481423403/",
     label: "Follow Cursor Boston on LinkedIn",
     Icon: LinkedInIcon,
   },

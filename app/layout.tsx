@@ -16,7 +16,7 @@ const ORGANIZATION_SOCIAL_LINKS = [
   "https://discord.gg/Wsncg8YYqc",
   "https://lu.ma/cursor-boston",
   "https://x.com/cursorboston",
-  "https://www.linkedin.com/company/cursor-boston/",
+  "https://www.linkedin.com/in/cursor-boston-marketing-481423403/",
 ];
 
 export const metadata: Metadata = {
